@@ -1,8 +1,8 @@
 {
-	"name"			:	"test",
-	"description"	:	"...",
+	"name"			:	"Energy Shaders",
+	"description"		:	"just testing tho",
 	"version"		:	"1.0.0",
 	"creator"		:	"LinusDev",
-	"dl"			:	"...",
+	"dl"			:	"null",
 	"version_code"	:	1	
 }
