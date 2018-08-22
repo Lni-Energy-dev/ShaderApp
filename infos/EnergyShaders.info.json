@@ -3,6 +3,6 @@
 	"description"		:	"just testing tho",
 	"version"		:	"1.0.0",
 	"creator"		:	"LinusDev",
-	"dl"			:	"null",
-	"version_code"	:	1	
+	"dl"			:	"https://github.com/Lni-Energy-dev/ShaderApp/raw/master/downloads/Energy%20Shaders%20Win10.zip",
+	"version_code"		:	1	
 }
