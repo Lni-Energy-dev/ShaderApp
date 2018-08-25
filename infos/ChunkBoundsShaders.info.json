@@ -1,1 +1,8 @@
-
+{
+	"name"			:	"Chunk Bounds Shaders",
+	"description"		:	"This pack shows the bounds of the chunks",
+	"version"		:	"1.0.1",
+	"creator"		:	"LinusDev",
+	"dl"			:	"https://github.com/Lni-Energy-dev/ShaderApp/raw/master/downloads/Energy%20Shaders%20Win10.zip",
+	"version_code"		:	1	
+}
