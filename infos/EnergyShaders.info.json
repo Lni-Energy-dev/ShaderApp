@@ -1,8 +1,8 @@
 {
-	"name"			:	"Energy Shaders v. 3.6.0 b4",
-	"description"		:	"Merry Christmas! beta 4 is out",
-	"version"		:	"3.6.0",
+	"name"			:	"Energy Shaders v. 3.6.1",
+	"description"		:	"Full Mobile Support and bug fixes!",
+	"version"		:	"3.6.1",
 	"creator"		:	"LinusDev",
-	"dl"			:	"https://github.com/Lni-Energy-dev/ShaderApp/raw/master/downloads/Energy%20Shaders%20v.%203.6.0%20b4.zip",
-	"version_code"		:	1	
+	"dl"			:	"https://github.com/Lni-Energy-dev/ShaderApp/raw/master/downloads/Energy%20Shaders%20v.%203.6.1.zip",
+	"version_code"		:	2	
 }
