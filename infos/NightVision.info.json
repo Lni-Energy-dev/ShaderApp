@@ -1,1 +1,8 @@
-
+{
+	"name"			:	"Night Vision Pack",
+	"description"		:	"Enables you to see at night or in Caves",
+	"version"		:	"1.0.3",
+	"creator"		:	"LinusDev",
+	"dl"			:	"https://github.com/Lni-Energy-dev/ShaderApp/raw/master/downloads/Night%20Vision%20Pack%201.0.3.zip",
+	"version_code"		:	3
+}
