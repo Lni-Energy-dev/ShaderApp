@@ -1,8 +1,8 @@
 {
 	"name"			:	"Chunk Bounds Shaders",
-	"description"		:	"This pack shows the bounds of the chunks",
-	"version"		:	"1.0.1",
+	"description"		:	"This pack shows the bounds of chunks",
+	"version"		:	"1.0.3",
 	"creator"		:	"LinusDev",
 	"dl"			:	"https://github.com/Lni-Energy-dev/ShaderApp/raw/master/downloads/ChunksBoundsShaders.zip",
-	"version_code"		:	1	
+	"version_code"		:	3	
 }
