@@ -1,8 +1,8 @@
 {
-	"name"			:	"Energy Shaders v. 3.7.0",
-	"description"		:	"Added support for 1.14 beta",
-	"version"		:	"3.7.0",
+	"name"			:	"Energy Shaders v. 3.7.1",
+	"description"		:	"Added support for 1.16 beta",
+	"version"		:	"3.7.1",
 	"creator"		:	"LinusDev",
-	"dl"			:	"https://github.com/Lni-Energy-dev/ShaderApp/raw/master/downloads/Energy%20Shaders%20v.%203.7.0.zip",
-	"version_code"		:	3
+	"dl"			:	"https://github.com/Lni-Energy-dev/ShaderApp/raw/master/downloads/Energy%20Shaders%20v.%203.7.1.zip",
+	"version_code"		:	4
 }
