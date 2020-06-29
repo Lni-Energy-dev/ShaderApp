@@ -1,8 +1,8 @@
 {
 	"name"			:	"Night Vision Pack",
-	"description"		:	"Enables you to see at night or in Caves",
-	"version"		:	"1.0.3",
+	"description"		:	"Night Vision pack updated by LinusDev for 1.16. §4Not compatible with other shaderpacks.§r Follow me on Twitter §3@Energy_Shaders§r and join my Discord §3discord.gg/95bBgPs§r!\n\nChangelog:\n - 1.0.3:\n   - support for minecraft 1.12 - 1.15  \n   - Entities are now bright too\n\n - §a1.0.4 (current)§r:\n   - support for minecraft §a1.13 - 1.16§r\n   - minor bug fixes",
+	"version"		:	"1.0.4",
 	"creator"		:	"LinusDev",
-	"dl"			:	"https://github.com/Lni-Energy-dev/ShaderApp/raw/master/downloads/Night%20Vision%20Pack%201.0.3.zip",
-	"version_code"		:	3
+	"dl"			:	"https://github.com/Lni-Energy-dev/ShaderApp/raw/master/downloads/Night%20Vision%20Pack%201.0.4.zip",
+	"version_code"		:	4
 }
